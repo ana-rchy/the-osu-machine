@@ -4,7 +4,7 @@ using DSharpPlus.CommandsNext;
 public partial class Program {
     const string TOKEN = "";
     const string PREFIX = ">>";
-    public const strng OSU_SECRET = "";
+    public const string OSU_SECRET = "";
     public const long ANA_OSU_ID = 11712494;
 
     static DiscordClient Client;
